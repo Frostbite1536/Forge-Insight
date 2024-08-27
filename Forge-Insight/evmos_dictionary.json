@@ -1,0 +1,511 @@
+{
+  "blockchain": "Evmos",
+  "pools": [
+    {
+      "name": "stEVMOS/EVMOS",
+      "address": "0xfe13390c6a6f01e80e9e4c38de079155e8c48978"
+    },
+    {
+      "name": "nUSDC/kUSDT",
+      "address": "0xd59f406c2e8f15fdacb42eb05ca5c1122982f5c9"
+    },
+    {
+      "name": "kUSDT/stEVMOS",
+      "address": "0x79a01b47de0a798e89d1e9772532eadeaa661b44"
+    },
+    {
+      "name": "stATOM/stEVMOS",
+      "address": "0x3b39ccfb4114bfba70fe4e4834f953a1433d70ee"
+    },
+    {
+      "name": "nUSDC/stEVMOS",
+      "address": "0x4d9903420620575ecb0400a54cd1ab03a14066e4"
+    },
+    {
+      "name": "whWETH/stEVMOS",
+      "address": "0xed28890b1a561cceded768fcd8f7e6ff444463f6"
+    },
+    {
+      "name": "axlWETH/whWETH",
+      "address": "0x845a914e36f898b9c4405f6dc9798daf8158be71"
+    },
+    {
+      "name": "ATOM/stATOM",
+      "address": "0xa81437305992465a4200a265329d4434c2f2e2d2"
+    },
+    {
+      "name": "EVM/EVMOS",
+      "address": "0x7a874896a64319fb634695a9bea29b12c56c09b8"
+    },
+    {
+      "name": "coXEN/EVM",
+      "address": "0x0792c946212e840ce3f492d673acf1f17422e0c1"
+    },
+    {
+      "name": "coXEN/EVMOS",
+      "address": "0x110bc8ba257c2642784a62e60dd944bcecb6c9ef"
+    },
+    {
+      "name": "coDXN/EVMOS",
+      "address": "0xfa283f86c3d7518925c2e0d17e16999b67697971"
+    }
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped Evmos",
+      "symbol": "WEVMOS",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
+    },
+    {
+      "name": "Orbital Apes Token",
+      "symbol": "OAT",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xeaa87fdf35a041963a1902dcc26bbaa2386a6800",
+      "logoURI": "https://raw.githubusercontent.com/CulinaryConsensus/oa-token-frontend/main/public/apeProfile-svg.svg"
+    },
+    {
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/atom%201.png"
+    },
+    {
+      "name": "Juno",
+      "symbol": "JUNO",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
+      "logoURI": "https://assets.coingecko.com/coins/images/19249/small/juno.png"
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x3515F25AB7637adcF1b69F4D384ed5936B83431F",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png"
+    },
+    {
+      "name": "Stargaze",
+      "symbol": "STARS",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+      "logoURI": "https://assets.coingecko.com/coins/images/22363/small/stars.png"
+    },
+    {
+      "name": "Stride Staked Atom",
+      "symbol": "stATOM",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xB5124FA2b2cF92B2D469b249433BA1c96BDF536D",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.png"
+    },
+    {
+      "name": "Stride Staked Evmos",
+      "symbol": "stEVMOS",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.png"
+    },
+    {
+      "name": "Stride Staked Osmo",
+      "symbol": "stOSMO",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xD32eB974468ed767338533842D2D4Cc90B9BAb46",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.png"
+    },
+    {
+      "name": "Stride Staked Juno",
+      "symbol": "stJUNO",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xc71aAf8e486e3F33841BB56Ca3FD2aC3fa8D29a8",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.png"
+    },
+    {
+      "name": "Stride",
+      "symbol": "STRD",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x8FA78CEB7F04118Ec6d06AaC37Ca854691d8e963",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.png"
+    },
+    {
+      "name": "Stride Staked Stars",
+      "symbol": "stSTARS",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xc7e56EEc629D3728fE41baCa2f6BFc502096f94E",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.png"
+    },
+    {
+      "name": "USD Coin - Axelar",
+      "symbol": "axlUSDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped Ether - Axelar",
+      "symbol": "axlWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Rocket Pool staked ETH - Axelar",
+      "symbol": "axlRWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xE60CE2dfa6D4Ad37Ade1dcB7aC4D6C3A093b3A7E",
+      "logoURI": "https://assets.coingecko.com/coins/images/20764/large/reth.png"
+    },
+    {
+      "name": "Wrapped BTC - Axelar",
+      "symbol": "axlWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "Gravity",
+      "symbol": "GRAV",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png"
+    },
+    {
+      "name": "Wrapped Ether - Gravity",
+      "symbol": "gWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/weth.grv.svg"
+    },
+    {
+      "name": "Wrapped BTC - Gravity",
+      "symbol": "gWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wbtc.grv.svg"
+    },
+    {
+      "name": "USD Coin - Gravity",
+      "symbol": "gUSDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.grv.svg"
+    },
+    {
+      "name": "Dai Stablecoin - Gravity",
+      "symbol": "gDAI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/dai.grv.svg"
+    },
+    {
+      "name": "Tether USD - Gravity",
+      "symbol": "gUSDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
+    {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.grv.svg"
+    },
+    {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/evmCanonicalFXS.png"
+    },
+    {
+      "name": "Dai Stablecoin - Celer",
+      "symbol": "ceDAI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Wrapped Ether - Celer",
+      "symbol": "ceWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC - Celer",
+      "symbol": "ceWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "USD Coin - Celer",
+      "symbol": "ceUSDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xe46910336479F254723710D57e7b683F3315b22B",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD - Celer",
+      "symbol": "ceUSDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
+      "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
+    },
+    {
+      "name": "Tether USD - Kava",
+      "symbol": "USDTk",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xb8f812b5943ab3bf941d5d4f1de90a4b326c5d8f",
+      "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
+    },
+    {
+      "name": "BUSD - Celer",
+      "symbol": "ceBUSD",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x516e6D96896Aea92cE5e78B0348FD997F13802ad",
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png"
+    },
+    {
+      "name": "BNB - Celer",
+      "symbol": "ceBNB",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
+    },
+    {
+      "name": "AVAX - Celer",
+      "symbol": "ceAVAX",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
+    },
+    {
+      "name": "FTM - Celer",
+      "symbol": "ceFTM",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x729416B1F442f204989f1C9f0d58321F878808eD",
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/thumb/Fantom.png"
+    },
+    {
+      "name": "Aurora - Celer",
+      "symbol": "ceAURORA",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
+      "logoURI": "https://assets.coingecko.com/coins/images/20582/thumb/aurora.jpeg"
+    },
+    {
+      "name": "CELR - Celer",
+      "symbol": "CELR",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png"
+    },
+    {
+      "name": "Orbital Apes",
+      "symbol": "OAV",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/oav.png"
+    },
+    {
+      "name": "Evmos Domains",
+      "symbol": "EVD",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x47685B6AC7bB4de761A57828877A7B8254c8B145",
+      "logoURI": "https://assets.coingecko.com/coins/images/27785/small/evmos-domains.png?1665798992"
+    },
+    {
+      "name": "xEVMOS - xSPACE SLP",
+      "symbol": "xEVMOSxSPACE",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x45c5e270c6f01e48507098c6C8b580584EF3E559",
+      "logoURI": "https://bafybeigkcvyyvfc4urof3ledmyoo6wtfgrhwtquivy2ocsaejmxum4naie.ipfs.w3s.link/XSLP3.png"
+    },
+    {
+      "name": "SpaceFi",
+      "symbol": "SPACE",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc",
+      "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc/86c2fa4fc3f1e3a8a46b4f478018c2ce.png"
+    },
+    {
+      "name": "Quicksilver Staked Atom",
+      "symbol": "qATOM",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x4ad26064831ECE180B179a4C02Dc97940AA77B17",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.png"
+    },
+    {
+      "name": "Quicksilver Staked Osmo",
+      "symbol": "qOSMO",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x616E00909730f7dE9Afd97Dc71981f6d28e2B0ca",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qosmo.png"
+    },
+    {
+      "name": "Quicksilver",
+      "symbol": "QCK",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xf55454383cEEFB1B5e889E59542352B1b928707d",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png"
+    },
+    {
+      "name": "XEN Crypto",
+      "symbol": "coXEN",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+      "logoURI": "https://faircrypto.org/_next/image?url=%2Fxen_crypto.png&w=256&q=75"
+    },
+    {
+      "name": "DBXen Token on Evmos",
+      "symbol": "coDXN",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xc418B123885d732ED042b16e12e259741863F723",
+      "logoURI": "https://pbs.twimg.com/profile_images/1613898260321640450/RF2tJJSm_400x400.jpg"
+    },
+    {
+      "name": "cEVMOS (Tashi Lending)",
+      "symbol": "cEVMOS",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0x1cd248d72248a0618932f77093dc4cec9757759d",
+      "logoURI": "https://bafybeifljb25ehlnx3aawwxd2j77hqqy3wpsdgmmf5forb6oohybnlkln4.ipfs.w3s.link/cEVMOS.png"
+    },
+    {
+      "name": "cATOM (Tashi Lending)",
+      "symbol": "cATOM",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xd7b451014c38216938ec02ea69769ba02e744044",
+      "logoURI": "https://bafybeibwvlxa3wd5mptp7dzyndxipibhkngamlwzzdnqfkon37gdqbaa54.ipfs.w3s.link/cATOM.png"
+    },
+    {
+      "name": "cUSDT Kava (Tashi Lending)",
+      "symbol": "cUSDTk",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0x5ac7404f17f64fe8cd812d45a6f5fc6ffc46f288",
+      "logoURI": "https://bafybeicgrozniitu6o2yvhfav4jaiwytra6e6lczha4rdf5dugp6qxtcca.ipfs.w3s.link/cUSDT.png"
+    },
+    {
+      "name": "USDC - Noble",
+      "symbol": "USDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xf1fae9ec886c5f6e4ea13da2456087bd72f02cd1",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tashi",
+      "symbol": "TASHI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x98fAFD9F714CE0B4bB2870527076F2F314aAed82",
+      "logoURI": "https://bafybeicpax5wssw73zqbiwaoxragg2bavn6dlmdhypvvc66wvg6mf474qm.ipfs.w3s.link/2200285818949a07d36e303576f14af5.png"
+    },
+    {
+      "name": "Wrapped BTC - Wormhole",
+      "symbol": "WBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xC732284e5deDb565ba403216d718a485038E55A6",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "Wrapped Ether - Wormhole",
+      "symbol": "WETH",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0x4D036A97e9ad9e805f0E7B163Ea681B3dE83B7BF",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "USDC - Wormhole",
+      "symbol": "USDCw",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xC4CcDf91b810a61cCB48b35ccCc066C63bf94B4F",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "USDT - Wormhole",
+      "symbol": "USDTw",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xa9582420b222c85ee5b6e766415eea5673283a03",
+      "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
+    },
+    {
+      "name": "Evmoon",
+      "symbol": "Evmoon",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x524400756F3D288d90C04eaA0d130cB9c4ADC412",
+      "logoURI": "https://dweb.link/ipfs/bafybeia3zgw7y7eephx7h2b4hkhffjnvgfjjhtsfpbkumaf5mfj4y7ncbi/photo_2023-12-20_12-27-55.jpg"
+    },
+    {
+      "name": "Light",
+      "symbol": "LIGHT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xe7520B4b89F105c53D4DBA596ebaF1Bd6A44D544",
+      "logoURI": "https://bafybeih665setthz7fos62aqelwh3ssrpzafjnpy5xd77kdbs5fwe5ppb4.ipfs.w3s.link/light.png"
+    },
+    {
+      "name": "Kava",
+      "symbol": "KAVA",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x6196aee47d983e9b20610a3e816935bffa8d17d1",
+      "logoURI": "https://bafybeibiwxnx234p5zfj6bj5jfgm2ztdngmwgltdurbo4xulws2mw2gojm.ipfs.w3s.link/kava.png"
+    }
+  ]
+}
