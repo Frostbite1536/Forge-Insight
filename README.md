@@ -117,4 +117,3 @@ If you encounter any issues or have questions, please file an issue on the GitHu
 ---
 
 A special thanks to all contributors and users of this tool!
-```
