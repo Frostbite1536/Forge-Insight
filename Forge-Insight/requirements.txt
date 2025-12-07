@@ -33,7 +33,7 @@ pandas==2.2.0
 pillow==10.4.0
 pluggy==1.5.0
 proto-plus==1.24.0
-protobuf==5.27.3
+protobuf==5.29.5
 pyaes==1.6.1
 pyarrow==17.0.0
 pyasn1==0.6.0
