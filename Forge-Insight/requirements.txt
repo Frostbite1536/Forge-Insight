@@ -9,7 +9,7 @@ contourpy==1.2.1
 cycler==0.12.1
 DateTime==5.5
 et-xmlfile==1.1.0
-filelock==3.13.4
+filelock==3.20.1
 fonttools==4.61.0
 gitdb==4.0.11
 GitPython==3.1.43
